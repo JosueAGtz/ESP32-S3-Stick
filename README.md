@@ -10,7 +10,7 @@ ESP32-S3 is a dual-core XTensa LX7 MCU, capable of running at 240 MHz. Apart fro
 
 ## ESP32-S3 Stick Pinout
 
-![ESP32S3_Pinout](https://github.com/JosueAGtz/ESP32-S3-Stick/blob/main/Images/ESP32S3_Dimm.png)
+![ESP32S3_Pinout](https://github.com/JosueAGtz/ESP32-S3-Stick/blob/main/Images/ESP32S3_Pinout.png)
 
 ## ESP32-S3 Stick Dimmensions
 
